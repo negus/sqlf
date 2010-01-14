@@ -1,0 +1,8 @@
+target
+*.iws
+*.ipr
+*.iml
+*.log
+*~
+.DS_Store
+
